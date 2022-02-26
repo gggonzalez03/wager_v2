@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "wager_v2",
+    "slug": "wager_v2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
