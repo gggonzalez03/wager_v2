@@ -1,5 +1,6 @@
 ### Install NodeJS and Git
 Install NodeJS: https://nodejs.org/en/download/
+
 Install Git: https://github.com/git-guides/install-git
 
 ### Clone the repo using a terminal and cd into the project folder
