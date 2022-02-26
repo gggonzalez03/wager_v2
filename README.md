@@ -5,6 +5,7 @@ Install Git: https://github.com/git-guides/install-git
 
 ### Clone the repo using a terminal and cd into the project folder
 git clone https://github.com/gggonzalez03/wager_v2.git
+
 cd wager_v2/
 
 ### Install Expo CLI
